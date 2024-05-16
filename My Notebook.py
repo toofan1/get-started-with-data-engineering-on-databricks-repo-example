@@ -1,2 +1,7 @@
 # Databricks notebook source
-# This is my first notebook
+# MAGIC %md
+# MAGIC ### This is my first notebook
+
+# COMMAND ----------
+
+
